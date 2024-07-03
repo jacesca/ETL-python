@@ -1,0 +1,3917 @@
+{
+    "02M260":{
+       "street_address":"425 West 33rd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "06M211":{
+       "street_address":"650 Academy Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "01M539":{
+       "street_address":"111 Columbia Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":657.0,
+          "reading":601.0,
+          "writing":601.0
+       }
+    },
+    "02M294":{
+       "street_address":"350 Grand Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":395.0,
+          "reading":411.0,
+          "writing":387.0
+       }
+    },
+    "02M308":{
+       "street_address":"350 Grand Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":418.0,
+          "reading":428.0,
+          "writing":415.0
+       }
+    },
+    "02M545":{
+       "street_address":"350 Grand Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":613.0,
+          "reading":453.0,
+          "writing":463.0
+       }
+    },
+    "01M292":{
+       "street_address":"220 Henry Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":410.0,
+          "reading":406.0,
+          "writing":381.0
+       }
+    },
+    "01M696":{
+       "street_address":"525 East Houston Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":634.0,
+          "reading":641.0,
+          "writing":639.0
+       }
+    },
+    "02M305":{
+       "street_address":"350 Grand Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":389.0,
+          "reading":395.0,
+          "writing":381.0
+       }
+    },
+    "01M509":{
+       "street_address":"145 Stanton Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":438.0,
+          "reading":413.0,
+          "writing":394.0
+       }
+    },
+    "01M448":{
+       "street_address":"200 Monroe Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":437.0,
+          "reading":355.0,
+          "writing":352.0
+       }
+    },
+    "02M543":{
+       "street_address":"350 Grand Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":381.0,
+          "reading":396.0,
+          "writing":372.0
+       }
+    },
+    "02M298":{
+       "street_address":"100 Hester Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":430.0,
+          "reading":435.0,
+          "writing":427.0
+       }
+    },
+    "02M420":{
+       "street_address":"345 East 15th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":452.0,
+          "reading":445.0,
+          "writing":430.0
+       }
+    },
+    "02M399":{
+       "street_address":"40 Irving Place",
+       "city":"Manhattan",
+       "scores":{
+          "math":446.0,
+          "reading":433.0,
+          "writing":411.0
+       }
+    },
+    "02M546":{
+       "street_address":"40 Irving Place",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M533":{
+       "street_address":"40 Irving Place",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M438":{
+       "street_address":"40 Irving Place",
+       "city":"Manhattan",
+       "scores":{
+          "math":403.0,
+          "reading":330.0,
+          "writing":316.0
+       }
+    },
+    "02M407":{
+       "street_address":"345 East 15th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":501.0,
+          "reading":550.0,
+          "writing":541.0
+       }
+    },
+    "02M374":{
+       "street_address":"40 Irving Place",
+       "city":"Manhattan",
+       "scores":{
+          "math":446.0,
+          "reading":459.0,
+          "writing":455.0
+       }
+    },
+    "02M551":{
+       "street_address":"550 Wheeler Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":446.0,
+          "reading":453.0,
+          "writing":428.0
+       }
+    },
+    "02M580":{
+       "street_address":"26 Broadway",
+       "city":"Manhattan",
+       "scores":{
+          "math":411.0,
+          "reading":415.0,
+          "writing":409.0
+       }
+    },
+    "02M418":{
+       "street_address":"75 Broad Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":577.0,
+          "reading":560.0,
+          "writing":567.0
+       }
+    },
+    "02M316":{
+       "street_address":"26 Broadway",
+       "city":"Manhattan",
+       "scores":{
+          "math":418.0,
+          "reading":420.0,
+          "writing":417.0
+       }
+    },
+    "02M489":{
+       "street_address":"100 Trinity Place",
+       "city":"Manhattan",
+       "scores":{
+          "math":469.0,
+          "reading":442.0,
+          "writing":447.0
+       }
+    },
+    "02M425":{
+       "street_address":"90 Trinity Place",
+       "city":"Manhattan",
+       "scores":{
+          "math":390.0,
+          "reading":396.0,
+          "writing":392.0
+       }
+    },
+    "01M450":{
+       "street_address":"420 East 12th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":454.0,
+          "reading":428.0,
+          "writing":445.0
+       }
+    },
+    "02M411":{
+       "street_address":"55 East 25th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":592.0,
+          "reading":526.0,
+          "writing":531.0
+       }
+    },
+    "02M047":{
+       "street_address":"223 East 23rd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M413":{
+       "street_address":"127 East 22nd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":534.0,
+          "reading":533.0,
+          "writing":522.0
+       }
+    },
+    "02M439":{
+       "street_address":"43 West 22nd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":522.0,
+          "reading":479.0,
+          "writing":510.0
+       }
+    },
+    "02M422":{
+       "street_address":"351 West 18th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M412":{
+       "street_address":"333 West 17th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":595.0,
+          "reading":550.0,
+          "writing":555.0
+       }
+    },
+    "02M534":{
+       "street_address":"34 West 14th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M437":{
+       "street_address":"351 West 18th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":378.0,
+          "reading":407.0,
+          "writing":388.0
+       }
+    },
+    "02M392":{
+       "street_address":"351 West 18th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":410.0,
+          "reading":407.0,
+          "writing":399.0
+       }
+    },
+    "02M605":{
+       "street_address":"351 West 18th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M419":{
+       "street_address":"351 West 18th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":386.0,
+          "reading":386.0,
+          "writing":386.0
+       }
+    },
+    "02M600":{
+       "street_address":"225 West 24th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":433.0,
+          "reading":442.0,
+          "writing":427.0
+       }
+    },
+    "02M414":{
+       "street_address":"333 West 17th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":560.0,
+          "reading":530.0,
+          "writing":522.0
+       }
+    },
+    "02M615":{
+       "street_address":"131 Avenue of the Americas",
+       "city":"Manhattan",
+       "scores":{
+          "math":439.0,
+          "reading":418.0,
+          "writing":400.0
+       }
+    },
+    "02M376":{
+       "street_address":"131 Avenue of the Americas",
+       "city":"Manhattan",
+       "scores":{
+          "math":518.0,
+          "reading":515.0,
+          "writing":503.0
+       }
+    },
+    "02M432":{
+       "street_address":"111 East 33rd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M427":{
+       "street_address":"111 East 33rd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":350.0,
+          "reading":334.0,
+          "writing":321.0
+       }
+    },
+    "02M500":{
+       "street_address":"111 East 33rd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":375.0,
+          "reading":385.0,
+          "writing":387.0
+       }
+    },
+    "02M393":{
+       "street_address":"439 West 49th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":395.0,
+          "reading":386.0,
+          "writing":371.0
+       }
+    },
+    "02M303":{
+       "street_address":"525 West 50th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":366.0,
+          "reading":356.0,
+          "writing":371.0
+       }
+    },
+    "02M296":{
+       "street_address":"525 West 50th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":451.0,
+          "reading":433.0,
+          "writing":424.0
+       }
+    },
+    "02M300":{
+       "street_address":"525 West 50th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":445.0,
+          "reading":417.0,
+          "writing":403.0
+       }
+    },
+    "02M135":{
+       "street_address":"439 West 49th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M400":{
+       "street_address":"444 West 56th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":469.0,
+          "reading":454.0,
+          "writing":444.0
+       }
+    },
+    "02M630":{
+       "street_address":"231-249 East 56th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":455.0,
+          "reading":475.0,
+          "writing":458.0
+       }
+    },
+    "02M542":{
+       "street_address":"525 West 50th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":409.0,
+          "reading":360.0,
+          "writing":347.0
+       }
+    },
+    "02M507":{
+       "street_address":"439 West 49th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":445.0,
+          "reading":432.0,
+          "writing":415.0
+       }
+    },
+    "02M288":{
+       "street_address":"525 West 50th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":428.0,
+          "reading":435.0,
+          "writing":421.0
+       }
+    },
+    "02M416":{
+       "street_address":"411 East 76th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":641.0,
+          "reading":617.0,
+          "writing":631.0
+       }
+    },
+    "03M299":{
+       "street_address":"122 Amsterdam Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":375.0,
+          "reading":389.0,
+          "writing":380.0
+       }
+    },
+    "03M307":{
+       "street_address":"122 Amsterdam Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":392.0,
+          "reading":419.0,
+          "writing":396.0
+       }
+    },
+    "03M479":{
+       "street_address":"227-243 West 61st Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":583.0,
+          "reading":586.0,
+          "writing":595.0
+       }
+    },
+    "03M485":{
+       "street_address":"100 Amsterdam Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":592.0,
+          "reading":592.0,
+          "writing":597.0
+       }
+    },
+    "03M494":{
+       "street_address":"122 Amsterdam Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":421.0,
+          "reading":428.0,
+          "writing":406.0
+       }
+    },
+    "03M541":{
+       "street_address":"122 Amsterdam Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":581.0,
+          "reading":531.0,
+          "writing":535.0
+       }
+    },
+    "03M859":{
+       "street_address":"122 Amsterdam Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "03M492":{
+       "street_address":"122 Amsterdam Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":415.0,
+          "reading":417.0,
+          "writing":402.0
+       }
+    },
+    "03M402":{
+       "street_address":"145 West 84th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":393.0,
+          "reading":371.0,
+          "writing":378.0
+       }
+    },
+    "03M417":{
+       "street_address":"145 West 84th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":489.0,
+          "reading":491.0,
+          "writing":500.0
+       }
+    },
+    "03M403":{
+       "street_address":"145 West 84th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":406.0,
+          "reading":407.0,
+          "writing":413.0
+       }
+    },
+    "03M415":{
+       "street_address":"215 West 114th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":381.0,
+          "reading":401.0,
+          "writing":392.0
+       }
+    },
+    "03M860":{
+       "street_address":"215 West 114th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":390.0,
+          "reading":384.0,
+          "writing":373.0
+       }
+    },
+    "05M362":{
+       "street_address":"425 West 123rd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":583.0,
+          "reading":561.0,
+          "writing":546.0
+       }
+    },
+    "05M367":{
+       "street_address":"509 West 129th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":357.0,
+          "reading":349.0,
+          "writing":365.0
+       }
+    },
+    "05M369":{
+       "street_address":"509 West 129th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":379.0,
+          "reading":399.0,
+          "writing":388.0
+       }
+    },
+    "04M680":{
+       "street_address":"1680 Lexington Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":385.0,
+          "reading":380.0,
+          "writing":370.0
+       }
+    },
+    "04M555":{
+       "street_address":"1573 Madison Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":483.0,
+          "reading":468.0,
+          "writing":439.0
+       }
+    },
+    "04M495":{
+       "street_address":"230 East 105th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":429.0,
+          "reading":433.0,
+          "writing":435.0
+       }
+    },
+    "04M610":{
+       "street_address":"105 East 106th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":478.0,
+          "reading":465.0,
+          "writing":472.0
+       }
+    },
+    "04M435":{
+       "street_address":"260 Pleasant Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":556.0,
+          "reading":505.0,
+          "writing":495.0
+       }
+    },
+    "04M372":{
+       "street_address":"240 East 109th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "05M304":{
+       "street_address":"6 Edgecombe Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":416.0,
+          "reading":445.0,
+          "writing":440.0
+       }
+    },
+    "05M670":{
+       "street_address":"200-214 West 135th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":402.0,
+          "reading":394.0,
+          "writing":400.0
+       }
+    },
+    "05M692":{
+       "street_address":"240 Convent Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":683.0,
+          "reading":610.0,
+          "writing":596.0
+       }
+    },
+    "06M540":{
+       "street_address":"443 West 135th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":459.0,
+          "reading":453.0,
+          "writing":447.0
+       }
+    },
+    "06M552":{
+       "street_address":"501 West 165th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":383.0,
+          "reading":355.0,
+          "writing":352.0
+       }
+    },
+    "06M346":{
+       "street_address":"504 West 158th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":387.0,
+          "reading":389.0,
+          "writing":385.0
+       }
+    },
+    "06M348":{
+       "street_address":"511 West 182nd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":443.0,
+          "reading":423.0,
+          "writing":434.0
+       }
+    },
+    "06M423":{
+       "street_address":"650 Academy Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "05M157":{
+       "street_address":"2005 Madison Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "04M409":{
+       "street_address":"2351 1st Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":344.0,
+          "reading":368.0,
+          "writing":367.0
+       }
+    },
+    "02M531":{
+       "street_address":"123 West 43rd Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":425.0,
+          "reading":451.0,
+          "writing":458.0
+       }
+    },
+    "02M408":{
+       "street_address":"328 West 48th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":496.0,
+          "reading":520.0,
+          "writing":516.0
+       }
+    },
+    "02M529":{
+       "street_address":"120 West 46th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":418.0,
+          "reading":422.0,
+          "writing":415.0
+       }
+    },
+    "02M280":{
+       "street_address":"411 Pearl Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M520":{
+       "street_address":"411 Pearl Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":418.0,
+          "reading":415.0,
+          "writing":398.0
+       }
+    },
+    "02M282":{
+       "street_address":"411 Pearl Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "02M139":{
+       "street_address":"411 Pearl Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "05M499":{
+       "street_address":"2581 7th Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":463.0,
+          "reading":452.0,
+          "writing":450.0
+       }
+    },
+    "06M463":{
+       "street_address":"549 Audubon Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":378.0,
+          "reading":381.0,
+          "writing":383.0
+       }
+    },
+    "06M462":{
+       "street_address":"549 Audubon Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":367.0,
+          "reading":377.0,
+          "writing":363.0
+       }
+    },
+    "06M467":{
+       "street_address":"549 Audubon Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":401.0,
+          "reading":394.0,
+          "writing":381.0
+       }
+    },
+    "06M293":{
+       "street_address":"4600 Broadway",
+       "city":"Manhattan",
+       "scores":{
+          "math":495.0,
+          "reading":445.0,
+          "writing":450.0
+       }
+    },
+    "06M468":{
+       "street_address":"549 Audubon Avenue",
+       "city":"Manhattan",
+       "scores":{
+          "math":374.0,
+          "reading":385.0,
+          "writing":389.0
+       }
+    },
+    "02M459":{
+       "street_address":"317 East 67th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":438.0,
+          "reading":358.0,
+          "writing":382.0
+       }
+    },
+    "02M519":{
+       "street_address":"317 East 67th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":485.0,
+          "reading":498.0,
+          "writing":496.0
+       }
+    },
+    "02M449":{
+       "street_address":"317 East 67th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":431.0,
+          "reading":409.0,
+          "writing":396.0
+       }
+    },
+    "02M655":{
+       "street_address":"320 East 96th Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":435.0,
+          "reading":440.0,
+          "writing":425.0
+       }
+    },
+    "02M475":{
+       "street_address":"345 Chambers Street",
+       "city":"Manhattan",
+       "scores":{
+          "math":754.0,
+          "reading":697.0,
+          "writing":693.0
+       }
+    },
+    "31R600":{
+       "street_address":"290 St Marks Place",
+       "city":"Staten Island",
+       "scores":{
+          "math":420.0,
+          "reading":429.0,
+          "writing":409.0
+       }
+    },
+    "31R080":{
+       "street_address":"715 Ocean Terrace",
+       "city":"Staten Island",
+       "scores":{
+          "math":483.0,
+          "reading":473.0,
+          "writing":470.0
+       }
+    },
+    "31R450":{
+       "street_address":"105 Hamilton Avenue",
+       "city":"Staten Island",
+       "scores":{
+          "math":453.0,
+          "reading":458.0,
+          "writing":444.0
+       }
+    },
+    "31R445":{
+       "street_address":"85 St Josephs Avenue",
+       "city":"Staten Island",
+       "scores":{
+          "math":432.0,
+          "reading":427.0,
+          "writing":425.0
+       }
+    },
+    "31R605":{
+       "street_address":"485 Clawson Street",
+       "city":"Staten Island",
+       "scores":{
+          "math":711.0,
+          "reading":660.0,
+          "writing":670.0
+       }
+    },
+    "31R440":{
+       "street_address":"465 New Dorp Lane",
+       "city":"Staten Island",
+       "scores":{
+          "math":454.0,
+          "reading":446.0,
+          "writing":444.0
+       }
+    },
+    "31R455":{
+       "street_address":"100 Luten Avenue",
+       "city":"Staten Island",
+       "scores":{
+          "math":494.0,
+          "reading":476.0,
+          "writing":476.0
+       }
+    },
+    "31R460":{
+       "street_address":"1200 Manor Road",
+       "city":"Staten Island",
+       "scores":{
+          "math":496.0,
+          "reading":490.0,
+          "writing":487.0
+       }
+    },
+    "31R064":{
+       "street_address":"100 Essex Drive",
+       "city":"Staten Island",
+       "scores":{
+          "math":442.0,
+          "reading":458.0,
+          "writing":454.0
+       }
+    },
+    "31R047":{
+       "street_address":"100 Essex Drive",
+       "city":"Staten Island",
+       "scores":{
+          "math":477.0,
+          "reading":468.0,
+          "writing":464.0
+       }
+    },
+    "07X522":{
+       "street_address":"333 East 151st Street",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "07X547":{
+       "street_address":"730 Concourse Village West",
+       "city":"Bronx",
+       "scores":{
+          "math":390.0,
+          "reading":398.0,
+          "writing":376.0
+       }
+    },
+    "09X505":{
+       "street_address":"244 East 163rd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":403.0,
+          "reading":409.0,
+          "writing":415.0
+       }
+    },
+    "07X548":{
+       "street_address":"730 Concourse Village West",
+       "city":"Bronx",
+       "scores":{
+          "math":402.0,
+          "reading":405.0,
+          "writing":395.0
+       }
+    },
+    "07X527":{
+       "street_address":"730 Concourse Village West",
+       "city":"Bronx",
+       "scores":{
+          "math":384.0,
+          "reading":355.0,
+          "writing":361.0
+       }
+    },
+    "07X551":{
+       "street_address":"339 Morris Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":398.0,
+          "reading":400.0,
+          "writing":405.0
+       }
+    },
+    "07X670":{
+       "street_address":"350 Gerard Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":374.0,
+          "reading":386.0,
+          "writing":382.0
+       }
+    },
+    "07X427":{
+       "street_address":"350 Gerard Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":380.0,
+          "reading":382.0,
+          "writing":362.0
+       }
+    },
+    "07X600":{
+       "street_address":"333 East 151st Street",
+       "city":"Bronx",
+       "scores":{
+          "math":390.0,
+          "reading":373.0,
+          "writing":371.0
+       }
+    },
+    "09X327":{
+       "street_address":"1501 Jerome Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "09X365":{
+       "street_address":"1700 Macombs Road",
+       "city":"Bronx",
+       "scores":{
+          "math":371.0,
+          "reading":334.0,
+          "writing":348.0
+       }
+    },
+    "07X223":{
+       "street_address":"360 East 145th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "07X221":{
+       "street_address":"360 East 145th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":419.0,
+          "reading":414.0,
+          "writing":394.0
+       }
+    },
+    "07X334":{
+       "street_address":"345 Brook Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":345.0,
+          "reading":338.0,
+          "writing":312.0
+       }
+    },
+    "07X520":{
+       "street_address":"470 Jackson Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "07X500":{
+       "street_address":"600 St Anns Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":463.0,
+          "reading":451.0,
+          "writing":435.0
+       }
+    },
+    "07X259":{
+       "street_address":"455 Southern Boulevard",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "07X495":{
+       "street_address":"701 St Anns Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":420.0,
+          "reading":446.0,
+          "writing":424.0
+       }
+    },
+    "07X473":{
+       "street_address":"701 St Anns Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":377.0,
+          "reading":373.0,
+          "writing":369.0
+       }
+    },
+    "09X543":{
+       "street_address":"1110 Boston Road",
+       "city":"Bronx",
+       "scores":{
+          "math":363.0,
+          "reading":401.0,
+          "writing":396.0
+       }
+    },
+    "09X403":{
+       "street_address":"1110 Boston Road",
+       "city":"Bronx",
+       "scores":{
+          "math":355.0,
+          "reading":330.0,
+          "writing":320.0
+       }
+    },
+    "08X559":{
+       "street_address":"900 Tinton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "12X479":{
+       "street_address":"800 Home Street",
+       "city":"Bronx",
+       "scores":{
+          "math":370.0,
+          "reading":379.0,
+          "writing":381.0
+       }
+    },
+    "09X260":{
+       "street_address":"1363 Fulton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":513.0,
+          "reading":468.0,
+          "writing":485.0
+       }
+    },
+    "09X324":{
+       "street_address":"250 East 164th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":424.0,
+          "reading":413.0,
+          "writing":409.0
+       }
+    },
+    "09X250":{
+       "street_address":"1363 Fulton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":400.0,
+          "reading":391.0,
+          "writing":397.0
+       }
+    },
+    "12X267":{
+       "street_address":"800 Home Street",
+       "city":"Bronx",
+       "scores":{
+          "math":394.0,
+          "reading":381.0,
+          "writing":363.0
+       }
+    },
+    "09X404":{
+       "street_address":"1110 Boston Road",
+       "city":"Bronx",
+       "scores":{
+          "math":377.0,
+          "reading":385.0,
+          "writing":383.0
+       }
+    },
+    "09X297":{
+       "street_address":"1110 Boston Road",
+       "city":"Bronx",
+       "scores":{
+          "math":407.0,
+          "reading":389.0,
+          "writing":386.0
+       }
+    },
+    "09X517":{
+       "street_address":"3630 Third Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":387.0,
+          "reading":386.0,
+          "writing":386.0
+       }
+    },
+    "09X564":{
+       "street_address":"240 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "09X241":{
+       "street_address":"1595 Bathgate Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":445.0,
+          "reading":418.0,
+          "writing":422.0
+       }
+    },
+    "09X227":{
+       "street_address":"240 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":395.0,
+          "reading":401.0,
+          "writing":382.0
+       }
+    },
+    "09X252":{
+       "street_address":"1595 Bathgate Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":417.0,
+          "reading":399.0,
+          "writing":398.0
+       }
+    },
+    "09X276":{
+       "street_address":"1701 Fulton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "09X350":{
+       "street_address":"240 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "09X525":{
+       "street_address":"1710 Webster Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":375.0,
+          "reading":372.0,
+          "writing":374.0
+       }
+    },
+    "09X263":{
+       "street_address":"1595 Bathgate Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":382.0,
+          "reading":375.0,
+          "writing":384.0
+       }
+    },
+    "09X413":{
+       "street_address":"240 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":431.0,
+          "reading":421.0,
+          "writing":426.0
+       }
+    },
+    "09X231":{
+       "street_address":"4143 Third Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":398.0,
+          "reading":410.0,
+          "writing":397.0
+       }
+    },
+    "09X412":{
+       "street_address":"240 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":365.0,
+          "reading":360.0,
+          "writing":346.0
+       }
+    },
+    "09X329":{
+       "street_address":"240 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":385.0,
+          "reading":385.0,
+          "writing":388.0
+       }
+    },
+    "10X225":{
+       "street_address":"2225 Webster Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":402.0,
+          "reading":421.0,
+          "writing":410.0
+       }
+    },
+    "10X243":{
+       "street_address":"500 East Fordham Road",
+       "city":"Bronx",
+       "scores":{
+          "math":404.0,
+          "reading":383.0,
+          "writing":378.0
+       }
+    },
+    "10X524":{
+       "street_address":"2474 Crotona Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "10X439":{
+       "street_address":"500 East Fordham Road",
+       "city":"Bronx",
+       "scores":{
+          "math":401.0,
+          "reading":402.0,
+          "writing":386.0
+       }
+    },
+    "10X264":{
+       "street_address":"2474 Crotona Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "10X434":{
+       "street_address":"500 East Fordham Road",
+       "city":"Bronx",
+       "scores":{
+          "math":413.0,
+          "reading":408.0,
+          "writing":402.0
+       }
+    },
+    "10X437":{
+       "street_address":"500 East Fordham Road",
+       "city":"Bronx",
+       "scores":{
+          "math":398.0,
+          "reading":404.0,
+          "writing":412.0
+       }
+    },
+    "10X565":{
+       "street_address":"2474 Crotona Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "10X374":{
+       "street_address":"500 East Fordham Road",
+       "city":"Bronx",
+       "scores":{
+          "math":408.0,
+          "reading":417.0,
+          "writing":404.0
+       }
+    },
+    "10X438":{
+       "street_address":"500 East Fordham Road",
+       "city":"Bronx",
+       "scores":{
+          "math":355.0,
+          "reading":373.0,
+          "writing":368.0
+       }
+    },
+    "12X248":{
+       "street_address":"1180 Rev JA Polite Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":387.0,
+          "reading":388.0,
+          "writing":386.0
+       }
+    },
+    "08X332":{
+       "street_address":"965 Longwood Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":376.0,
+          "reading":372.0,
+          "writing":369.0
+       }
+    },
+    "08X530":{
+       "street_address":"965 Longwood Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":378.0,
+          "reading":391.0,
+          "writing":378.0
+       }
+    },
+    "08X269":{
+       "street_address":"928 Simpson Street",
+       "city":"Bronx",
+       "scores":{
+          "math":417.0,
+          "reading":412.0,
+          "writing":403.0
+       }
+    },
+    "12X278":{
+       "street_address":"1180 Rev JA Polite Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":366.0,
+          "reading":362.0,
+          "writing":365.0
+       }
+    },
+    "12X271":{
+       "street_address":"1716 Southern Boulevard",
+       "city":"Bronx",
+       "scores":{
+          "math":418.0,
+          "reading":406.0,
+          "writing":408.0
+       }
+    },
+    "12X511":{
+       "street_address":"1619 Boston Road",
+       "city":"Bronx",
+       "scores":{
+          "math":364.0,
+          "reading":385.0,
+          "writing":366.0
+       }
+    },
+    "12X682":{
+       "street_address":"1021 Jennings Street",
+       "city":"Bronx",
+       "scores":{
+          "math":345.0,
+          "reading":347.0,
+          "writing":339.0
+       }
+    },
+    "12X251":{
+       "street_address":"1619 Boston Road",
+       "city":"Bronx",
+       "scores":{
+          "math":377.0,
+          "reading":372.0,
+          "writing":365.0
+       }
+    },
+    "12X372":{
+       "street_address":"2024 Mohegan Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":393.0,
+          "reading":397.0,
+          "writing":379.0
+       }
+    },
+    "12X684":{
+       "street_address":"1122 East 180th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":379.0,
+          "reading":372.0,
+          "writing":373.0
+       }
+    },
+    "08X348":{
+       "street_address":"3000 East Tremont Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "08X293":{
+       "street_address":"3000 East Tremont Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":390.0,
+          "reading":411.0,
+          "writing":393.0
+       }
+    },
+    "08X558":{
+       "street_address":"3000 East Tremont Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "08X320":{
+       "street_address":"3000 East Tremont Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "08X405":{
+       "street_address":"3000 East Tremont Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":426.0,
+          "reading":419.0,
+          "writing":407.0
+       }
+    },
+    "08X349":{
+       "street_address":"3000 East Tremont Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "11X418":{
+       "street_address":"2040 Antin Place",
+       "city":"Bronx",
+       "scores":{
+          "math":408.0,
+          "reading":428.0,
+          "writing":404.0
+       }
+    },
+    "10X368":{
+       "street_address":"2975 Tibbett Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":426.0,
+          "reading":419.0,
+          "writing":404.0
+       }
+    },
+    "10X284":{
+       "street_address":"99 Terrace View Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":384.0,
+          "reading":394.0,
+          "writing":366.0
+       }
+    },
+    "10X213":{
+       "street_address":"99 Terrace View Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":394.0,
+          "reading":406.0,
+          "writing":391.0
+       }
+    },
+    "10X546":{
+       "street_address":"99 Terrace View Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":382.0,
+          "reading":384.0,
+          "writing":390.0
+       }
+    },
+    "10X477":{
+       "street_address":"99 Terrace View Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":451.0,
+          "reading":417.0,
+          "writing":423.0
+       }
+    },
+    "10X237":{
+       "street_address":"120 West 231st Street",
+       "city":"Bronx",
+       "scores":{
+          "math":423.0,
+          "reading":420.0,
+          "writing":425.0
+       }
+    },
+    "10X141":{
+       "street_address":"660 West 237th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":496.0,
+          "reading":485.0,
+          "writing":476.0
+       }
+    },
+    "11X513":{
+       "street_address":"921 East 228th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":407.0,
+          "reading":363.0,
+          "writing":358.0
+       }
+    },
+    "11X514":{
+       "street_address":"921 East 228th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":392.0,
+          "reading":408.0,
+          "writing":392.0
+       }
+    },
+    "11X270":{
+       "street_address":"921 East 228th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":392.0,
+          "reading":408.0,
+          "writing":400.0
+       }
+    },
+    "11X544":{
+       "street_address":"800 East Gun Hill Road",
+       "city":"Bronx",
+       "scores":{
+          "math":367.0,
+          "reading":381.0,
+          "writing":361.0
+       }
+    },
+    "11X545":{
+       "street_address":"800 East Gun Hill Road",
+       "city":"Bronx",
+       "scores":{
+          "math":403.0,
+          "reading":410.0,
+          "writing":393.0
+       }
+    },
+    "11X290":{
+       "street_address":"800 East Gun Hill Road",
+       "city":"Bronx",
+       "scores":{
+          "math":386.0,
+          "reading":380.0,
+          "writing":391.0
+       }
+    },
+    "11X275":{
+       "street_address":"800 East Gun Hill Road",
+       "city":"Bronx",
+       "scores":{
+          "math":396.0,
+          "reading":399.0,
+          "writing":377.0
+       }
+    },
+    "11X265":{
+       "street_address":"800 East Gun Hill Road",
+       "city":"Bronx",
+       "scores":{
+          "math":407.0,
+          "reading":416.0,
+          "writing":401.0
+       }
+    },
+    "11X253":{
+       "street_address":"800 East Gun Hill Road",
+       "city":"Bronx",
+       "scores":{
+          "math":380.0,
+          "reading":437.0,
+          "writing":425.0
+       }
+    },
+    "10X433":{
+       "street_address":"2780 Reservoir Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":372.0,
+          "reading":361.0,
+          "writing":369.0
+       }
+    },
+    "10X445":{
+       "street_address":"75 West 205th Street",
+       "city":"Bronx",
+       "scores":{
+          "math":714.0,
+          "reading":660.0,
+          "writing":667.0
+       }
+    },
+    "10X268":{
+       "street_address":"2780 Reservoir Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":366.0,
+          "reading":311.0,
+          "writing":310.0
+       }
+    },
+    "10X549":{
+       "street_address":"2780 Reservoir Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":432.0,
+          "reading":396.0,
+          "writing":395.0
+       }
+    },
+    "10X353":{
+       "street_address":"100 West Mosholu Parkway South",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "10X442":{
+       "street_address":"2780 Reservoir Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":417.0,
+          "reading":434.0,
+          "writing":425.0
+       }
+    },
+    "10X696":{
+       "street_address":"2925 Goulden Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":669.0,
+          "reading":672.0,
+          "writing":672.0
+       }
+    },
+    "10X440":{
+       "street_address":"100 West Mosholu Parkway South",
+       "city":"Bronx",
+       "scores":{
+          "math":445.0,
+          "reading":436.0,
+          "writing":433.0
+       }
+    },
+    "10X342":{
+       "street_address":"2780 Reservoir Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":390.0,
+          "reading":387.0,
+          "writing":379.0
+       }
+    },
+    "10X351":{
+       "street_address":"100 West Mosholu Parkway South",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "11X299":{
+       "street_address":"925 Astor Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":422.0,
+          "reading":417.0,
+          "writing":409.0
+       }
+    },
+    "11X542":{
+       "street_address":"925 Astor Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":420.0,
+          "reading":433.0,
+          "writing":425.0
+       }
+    },
+    "11X509":{
+       "street_address":"925 Astor Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":356.0,
+          "reading":340.0,
+          "writing":320.0
+       }
+    },
+    "11X288":{
+       "street_address":"925 Astor Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":488.0,
+          "reading":461.0,
+          "writing":458.0
+       }
+    },
+    "11X508":{
+       "street_address":"925 Astor Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":418.0,
+          "reading":432.0,
+          "writing":436.0
+       }
+    },
+    "12X388":{
+       "street_address":"1300 Boynton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":317.0,
+          "reading":315.0,
+          "writing":292.0
+       }
+    },
+    "12X478":{
+       "street_address":"1551 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":430.0,
+          "reading":449.0,
+          "writing":448.0
+       }
+    },
+    "12X692":{
+       "street_address":"1300 Boynton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":361.0,
+          "reading":354.0,
+          "writing":351.0
+       }
+    },
+    "12X242":{
+       "street_address":"1551 East 172nd Street",
+       "city":"Bronx",
+       "scores":{
+          "math":430.0,
+          "reading":422.0,
+          "writing":414.0
+       }
+    },
+    "12X521":{
+       "street_address":"1300 Boynton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":444.0,
+          "reading":428.0,
+          "writing":422.0
+       }
+    },
+    "12X550":{
+       "street_address":"1300 Boynton Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":356.0,
+          "reading":359.0,
+          "writing":347.0
+       }
+    },
+    "08X312":{
+       "street_address":"1980 Lafayette Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":396.0,
+          "reading":413.0,
+          "writing":395.0
+       }
+    },
+    "08X452":{
+       "street_address":"1980 Lafayette Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":365.0,
+          "reading":393.0,
+          "writing":357.0
+       }
+    },
+    "08X367":{
+       "street_address":"456 White Plains Road",
+       "city":"Bronx",
+       "scores":{
+          "math":418.0,
+          "reading":430.0,
+          "writing":403.0
+       }
+    },
+    "08X432":{
+       "street_address":"1980 Lafayette Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "08X305":{
+       "street_address":"1980 Lafayette Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":394.0,
+          "reading":384.0,
+          "writing":383.0
+       }
+    },
+    "08X282":{
+       "street_address":"456 White Plains Road",
+       "city":"Bronx",
+       "scores":{
+          "math":386.0,
+          "reading":390.0,
+          "writing":389.0
+       }
+    },
+    "08X561":{
+       "street_address":"1980 Lafayette Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "08X519":{
+       "street_address":"1440 Story Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":389.0,
+          "reading":408.0,
+          "writing":413.0
+       }
+    },
+    "08X376":{
+       "street_address":"1980 Lafayette Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":435.0,
+          "reading":415.0,
+          "writing":423.0
+       }
+    },
+    "11X249":{
+       "street_address":"750 Baychester Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":407.0,
+          "reading":421.0,
+          "writing":427.0
+       }
+    },
+    "11X455":{
+       "street_address":"750 Baychester Avenue",
+       "city":"Bronx",
+       "scores":{
+          "math":400.0,
+          "reading":401.0,
+          "writing":391.0
+       }
+    },
+    "24Q600":{
+       "street_address":"37-02 47th Avenue",
+       "city":"Long Island City",
+       "scores":{
+          "math":467.0,
+          "reading":436.0,
+          "writing":432.0
+       }
+    },
+    "24Q267":{
+       "street_address":"30-20 Thomson Avenue",
+       "city":"Long Island City",
+       "scores":{
+          "math":435.0,
+          "reading":437.0,
+          "writing":441.0
+       }
+    },
+    "24Q520":{
+       "street_address":"45-35 Van Dam Street",
+       "city":"Long Island City",
+       "scores":{
+          "math":377.0,
+          "reading":389.0,
+          "writing":377.0
+       }
+    },
+    "30Q301":{
+       "street_address":"1-50 51st Avenue",
+       "city":"Long Island City",
+       "scores":{
+          "math":444.0,
+          "reading":458.0,
+          "writing":444.0
+       }
+    },
+    "24Q610":{
+       "street_address":"45-30 36th Street",
+       "city":"Long Island City",
+       "scores":{
+          "math":511.0,
+          "reading":464.0,
+          "writing":456.0
+       }
+    },
+    "30Q575":{
+       "street_address":"28-04 41st Avenue",
+       "city":"Long Island City",
+       "scores":{
+          "math":495.0,
+          "reading":482.0,
+          "writing":479.0
+       }
+    },
+    "30Q555":{
+       "street_address":"28-01 41st Avenue",
+       "city":"Long Island City",
+       "scores":{
+          "math":490.0,
+          "reading":374.0,
+          "writing":381.0
+       }
+    },
+    "24Q299":{
+       "street_address":"30-20 Thomson Avenue",
+       "city":"Long Island City",
+       "scores":{
+          "math":631.0,
+          "reading":598.0,
+          "writing":610.0
+       }
+    },
+    "24Q530":{
+       "street_address":"45-35 Van Dam Street",
+       "city":"Long Island City",
+       "scores":{
+          "math":425.0,
+          "reading":367.0,
+          "writing":365.0
+       }
+    },
+    "30Q502":{
+       "street_address":"21-16 44th Road",
+       "city":"Long Island City",
+       "scores":{
+          "math":443.0,
+          "reading":420.0,
+          "writing":411.0
+       }
+    },
+    "24Q560":{
+       "street_address":"47-07 30th Place",
+       "city":"Long Island City",
+       "scores":{
+          "math":478.0,
+          "reading":445.0,
+          "writing":445.0
+       }
+    },
+    "24Q264":{
+       "street_address":"30-20 Thomson Avenue",
+       "city":"Long Island City",
+       "scores":{
+          "math":489.0,
+          "reading":456.0,
+          "writing":459.0
+       }
+    },
+    "30Q286":{
+       "street_address":"23-15 Newtown Avenue",
+       "city":"Astoria",
+       "scores":{
+          "math":483.0,
+          "reading":464.0,
+          "writing":477.0
+       }
+    },
+    "30Q445":{
+       "street_address":"48-10 31st Avenue",
+       "city":"Astoria",
+       "scores":{
+          "math":466.0,
+          "reading":424.0,
+          "writing":426.0
+       }
+    },
+    "30Q450":{
+       "street_address":"14-30 Broadway",
+       "city":"Astoria",
+       "scores":{
+          "math":430.0,
+          "reading":423.0,
+          "writing":412.0
+       }
+    },
+    "30Q501":{
+       "street_address":"35-12 35th Avenue",
+       "city":"Astoria",
+       "scores":{
+          "math":536.0,
+          "reading":543.0,
+          "writing":543.0
+       }
+    },
+    "30Q258":{
+       "street_address":"36-41 28th Street",
+       "city":"Astoria",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "30Q580":{
+       "street_address":"34-12 36th Avenue",
+       "city":"Astoria",
+       "scores":{
+          "math":633.0,
+          "reading":620.0,
+          "writing":628.0
+       }
+    },
+    "13K419":{
+       "street_address":"49 Flatbush Avenue Extension",
+       "city":"Brooklyn",
+       "scores":{
+          "math":399.0,
+          "reading":397.0,
+          "writing":386.0
+       }
+    },
+    "13K439":{
+       "street_address":"49 Flatbush Avenue Extension",
+       "city":"Brooklyn",
+       "scores":{
+          "math":432.0,
+          "reading":334.0,
+          "writing":333.0
+       }
+    },
+    "15K423":{
+       "street_address":"112 Schermerhorn Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "15K497":{
+       "street_address":"284 Baltic Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":417.0,
+          "reading":406.0,
+          "writing":394.0
+       }
+    },
+    "15K429":{
+       "street_address":"284 Baltic Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":393.0,
+          "reading":381.0,
+          "writing":402.0
+       }
+    },
+    "13K674":{
+       "street_address":"105 Johnson Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":503.0,
+          "reading":477.0,
+          "writing":427.0
+       }
+    },
+    "13K527":{
+       "street_address":"283 Adams Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":397.0,
+          "reading":415.0,
+          "writing":407.0
+       }
+    },
+    "13K483":{
+       "street_address":"283 Adams Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":446.0,
+          "reading":443.0,
+          "writing":430.0
+       }
+    },
+    "15K519":{
+       "street_address":"347 Baltic Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":416.0,
+          "reading":420.0,
+          "writing":402.0
+       }
+    },
+    "13K605":{
+       "street_address":"105 Johnson Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":394.0,
+          "reading":422.0,
+          "writing":400.0
+       }
+    },
+    "13K350":{
+       "street_address":"49 Flatbush Avenue Extension",
+       "city":"Brooklyn",
+       "scores":{
+          "math":372.0,
+          "reading":372.0,
+          "writing":361.0
+       }
+    },
+    "18K629":{
+       "street_address":"5800 Tilden Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":382.0,
+          "reading":395.0,
+          "writing":384.0
+       }
+    },
+    "17K745":{
+       "street_address":"600 Kingston Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "18K569":{
+       "street_address":"5800 Tilden Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":378.0,
+          "reading":394.0,
+          "writing":388.0
+       }
+    },
+    "17K531":{
+       "street_address":"600 Kingston Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":398.0,
+          "reading":411.0,
+          "writing":400.0
+       }
+    },
+    "18K563":{
+       "street_address":"5800 Tilden Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":364.0,
+          "reading":374.0,
+          "writing":361.0
+       }
+    },
+    "17K546":{
+       "street_address":"600 Kingston Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":468.0,
+          "reading":454.0,
+          "writing":464.0
+       }
+    },
+    "18K589":{
+       "street_address":"905 Winthrop Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":370.0,
+          "reading":383.0,
+          "writing":374.0
+       }
+    },
+    "17K533":{
+       "street_address":"600 Kingston Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":386.0,
+          "reading":385.0,
+          "writing":390.0
+       }
+    },
+    "20K609":{
+       "street_address":"4200 16th Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":428.0,
+          "reading":413.0,
+          "writing":417.0
+       }
+    },
+    "20K505":{
+       "street_address":"5800 20th Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":504.0,
+          "reading":411.0,
+          "writing":407.0
+       }
+    },
+    "13K412":{
+       "street_address":"300 Willoughby Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":358.0,
+          "reading":386.0,
+          "writing":380.0
+       }
+    },
+    "13K265":{
+       "street_address":"101 Park Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":332.0,
+          "reading":346.0,
+          "writing":350.0
+       }
+    },
+    "13K670":{
+       "street_address":"71-77 Clinton Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":479.0,
+          "reading":484.0,
+          "writing":472.0
+       }
+    },
+    "14K071":{
+       "street_address":"215 Heyward Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":366.0,
+          "reading":356.0,
+          "writing":353.0
+       }
+    },
+    "14K449":{
+       "street_address":"223 Graham Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":625.0,
+          "reading":588.0,
+          "writing":591.0
+       }
+    },
+    "14K322":{
+       "street_address":"70 Tompkins Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "14K614":{
+       "street_address":"325 Bushwick Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "14K454":{
+       "street_address":"223 Graham Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":384.0,
+          "reading":398.0,
+          "writing":399.0
+       }
+    },
+    "14K586":{
+       "street_address":"223 Graham Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":374.0,
+          "reading":376.0,
+          "writing":357.0
+       }
+    },
+    "19K510":{
+       "street_address":"400 Pennsylvania Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":380.0,
+          "reading":389.0,
+          "writing":384.0
+       }
+    },
+    "19K502":{
+       "street_address":"400 Pennsylvania Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":365.0,
+          "reading":369.0,
+          "writing":357.0
+       }
+    },
+    "19K660":{
+       "street_address":"145 Pennsylvania Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":326.0,
+          "reading":333.0,
+          "writing":350.0
+       }
+    },
+    "19K504":{
+       "street_address":"400 Pennsylvania Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":391.0,
+          "reading":373.0,
+          "writing":376.0
+       }
+    },
+    "19K507":{
+       "street_address":"400 Pennsylvania Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":375.0,
+          "reading":393.0,
+          "writing":394.0
+       }
+    },
+    "19K409":{
+       "street_address":"2057 Linden Boulevard",
+       "city":"Brooklyn",
+       "scores":{
+          "math":464.0,
+          "reading":451.0,
+          "writing":421.0
+       }
+    },
+    "19K639":{
+       "street_address":"999 Jamaica Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":383.0,
+          "reading":376.0,
+          "writing":370.0
+       }
+    },
+    "19K583":{
+       "street_address":"999 Jamaica Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":319.0,
+          "reading":323.0,
+          "writing":284.0
+       }
+    },
+    "19K683":{
+       "street_address":"370 Fountain Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":387.0,
+          "reading":391.0,
+          "writing":383.0
+       }
+    },
+    "19K764":{
+       "street_address":"999 Jamaica Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "19K422":{
+       "street_address":"1065 Elton Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "19K615":{
+       "street_address":"1 Wells Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":387.0,
+          "reading":387.0,
+          "writing":384.0
+       }
+    },
+    "19K659":{
+       "street_address":"999 Jamaica Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":365.0,
+          "reading":370.0,
+          "writing":362.0
+       }
+    },
+    "19K404":{
+       "street_address":"1065 Elton Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":382.0,
+          "reading":413.0,
+          "writing":391.0
+       }
+    },
+    "19K618":{
+       "street_address":"999 Jamaica Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":395.0,
+          "reading":376.0,
+          "writing":359.0
+       }
+    },
+    "20K490":{
+       "street_address":"8301 Shore Road",
+       "city":"Brooklyn",
+       "scores":{
+          "math":513.0,
+          "reading":456.0,
+          "writing":451.0
+       }
+    },
+    "22K405":{
+       "street_address":"2839 Bedford Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":550.0,
+          "reading":514.0,
+          "writing":516.0
+       }
+    },
+    "14K474":{
+       "street_address":"850 Grand Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":380.0,
+          "reading":377.0,
+          "writing":384.0
+       }
+    },
+    "14K478":{
+       "street_address":"850 Grand Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":463.0,
+          "reading":446.0,
+          "writing":425.0
+       }
+    },
+    "14K488":{
+       "street_address":"257 North 6th Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":391.0,
+          "reading":406.0,
+          "writing":391.0
+       }
+    },
+    "14K685":{
+       "street_address":"250 Hooper Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":344.0,
+          "reading":380.0,
+          "writing":379.0
+       }
+    },
+    "14K477":{
+       "street_address":"850 Grand Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":393.0,
+          "reading":390.0,
+          "writing":394.0
+       }
+    },
+    "14K561":{
+       "street_address":"257 North 6th Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":443.0,
+          "reading":440.0,
+          "writing":430.0
+       }
+    },
+    "14K558":{
+       "street_address":"257 North 6th Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":415.0,
+          "reading":424.0,
+          "writing":407.0
+       }
+    },
+    "23K514":{
+       "street_address":"226 Bristol Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":400.0,
+          "reading":407.0,
+          "writing":394.0
+       }
+    },
+    "23K697":{
+       "street_address":"226 Bristol Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":394.0,
+          "reading":399.0,
+          "writing":412.0
+       }
+    },
+    "17K122":{
+       "street_address":"150 Albany Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":446.0,
+          "reading":442.0,
+          "writing":410.0
+       }
+    },
+    "17K751":{
+       "street_address":"150 Albany Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":406.0,
+          "reading":405.0,
+          "writing":396.0
+       }
+    },
+    "16K455":{
+       "street_address":"1700 Fulton Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":399.0,
+          "reading":392.0,
+          "writing":394.0
+       }
+    },
+    "16K765":{
+       "street_address":"1700 Fulton Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "21K348":{
+       "street_address":"2630 Benson Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":367.0,
+          "reading":374.0,
+          "writing":361.0
+       }
+    },
+    "21K690":{
+       "street_address":"8310 21st Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":458.0,
+          "reading":434.0,
+          "writing":434.0
+       }
+    },
+    "21K337":{
+       "street_address":"2630 Benson Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":424.0,
+          "reading":343.0,
+          "writing":337.0
+       }
+    },
+    "21K572":{
+       "street_address":"2630 Benson Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":420.0,
+          "reading":396.0,
+          "writing":396.0
+       }
+    },
+    "20K445":{
+       "street_address":"1601 80th Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":488.0,
+          "reading":422.0,
+          "writing":417.0
+       }
+    },
+    "21K559":{
+       "street_address":"2630 Benson Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":369.0,
+          "reading":379.0,
+          "writing":378.0
+       }
+    },
+    "21K468":{
+       "street_address":"2630 Benson Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":474.0,
+          "reading":462.0,
+          "writing":449.0
+       }
+    },
+    "15K463":{
+       "street_address":"237 7th Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":408.0,
+          "reading":435.0,
+          "writing":415.0
+       }
+    },
+    "15K684":{
+       "street_address":"237 7th Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":553.0,
+          "reading":551.0,
+          "writing":539.0
+       }
+    },
+    "15K464":{
+       "street_address":"237 7th Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":405.0,
+          "reading":377.0,
+          "writing":395.0
+       }
+    },
+    "15K462":{
+       "street_address":"237 7th Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":420.0,
+          "reading":424.0,
+          "writing":414.0
+       }
+    },
+    "13K595":{
+       "street_address":"1119 Bedford Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":505.0,
+          "reading":464.0,
+          "writing":456.0
+       }
+    },
+    "15K592":{
+       "street_address":"362 Schermerhorn Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "15K656":{
+       "street_address":"345 Dean Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":439.0,
+          "reading":441.0,
+          "writing":436.0
+       }
+    },
+    "13K430":{
+       "street_address":"29 Ft Greene Place",
+       "city":"Brooklyn",
+       "scores":{
+          "math":682.0,
+          "reading":608.0,
+          "writing":606.0
+       }
+    },
+    "22K555":{
+       "street_address":"350 Coney Island Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":502.0,
+          "reading":495.0,
+          "writing":493.0
+       }
+    },
+    "20K485":{
+       "street_address":"350 67th Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":475.0,
+          "reading":440.0,
+          "writing":445.0
+       }
+    },
+    "32K545":{
+       "street_address":"1155 Dekalb Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":389.0,
+          "reading":374.0,
+          "writing":378.0
+       }
+    },
+    "16K498":{
+       "street_address":"1396 Broadway",
+       "city":"Brooklyn",
+       "scores":{
+          "math":395.0,
+          "reading":401.0,
+          "writing":383.0
+       }
+    },
+    "16K688":{
+       "street_address":"125 Stuyvesant Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":395.0,
+          "reading":382.0,
+          "writing":391.0
+       }
+    },
+    "16K393":{
+       "street_address":"1014 Lafayette Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "32K556":{
+       "street_address":"797 Bushwick Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":393.0,
+          "reading":368.0,
+          "writing":382.0
+       }
+    },
+    "14K610":{
+       "street_address":"50 Bedford Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":367.0,
+          "reading":381.0,
+          "writing":328.0
+       }
+    },
+    "14K632":{
+       "street_address":"50 Bedford Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":399.0,
+          "reading":413.0,
+          "writing":400.0
+       }
+    },
+    "21K540":{
+       "street_address":"50 Avenue X",
+       "city":"Brooklyn",
+       "scores":{
+          "math":512.0,
+          "reading":418.0,
+          "writing":396.0
+       }
+    },
+    "21K344":{
+       "street_address":"521 West Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":436.0,
+          "reading":430.0,
+          "writing":421.0
+       }
+    },
+    "17K548":{
+       "street_address":"883 Classon Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":382.0,
+          "reading":393.0,
+          "writing":377.0
+       }
+    },
+    "17K547":{
+       "street_address":"883 Classon Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":419.0,
+          "reading":411.0,
+          "writing":416.0
+       }
+    },
+    "17K590":{
+       "street_address":"1186 Carroll Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":525.0,
+          "reading":500.0,
+          "writing":481.0
+       }
+    },
+    "17K600":{
+       "street_address":"901 Classon Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":408.0,
+          "reading":424.0,
+          "writing":407.0
+       }
+    },
+    "17K524":{
+       "street_address":"883 Classon Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":344.0,
+          "reading":302.0,
+          "writing":300.0
+       }
+    },
+    "17K528":{
+       "street_address":"883 Classon Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":377.0,
+          "reading":386.0,
+          "writing":375.0
+       }
+    },
+    "17K543":{
+       "street_address":"911 Flatbush Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":496.0,
+          "reading":491.0,
+          "writing":484.0
+       }
+    },
+    "17K382":{
+       "street_address":"911 Flatbush Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":386.0,
+          "reading":397.0,
+          "writing":393.0
+       }
+    },
+    "17K537":{
+       "street_address":"911 Flatbush Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":360.0,
+          "reading":382.0,
+          "writing":359.0
+       }
+    },
+    "17K539":{
+       "street_address":"911 Flatbush Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":377.0,
+          "reading":382.0,
+          "writing":356.0
+       }
+    },
+    "17K408":{
+       "street_address":"911 Flatbush Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":374.0,
+          "reading":385.0,
+          "writing":375.0
+       }
+    },
+    "22K425":{
+       "street_address":"3787 Bedford Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":492.0,
+          "reading":450.0,
+          "writing":444.0
+       }
+    },
+    "21K525":{
+       "street_address":"1600 Avenue L",
+       "city":"Brooklyn",
+       "scores":{
+          "math":500.0,
+          "reading":479.0,
+          "writing":472.0
+       }
+    },
+    "15K448":{
+       "street_address":"610 Henry Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":401.0,
+          "reading":411.0,
+          "writing":404.0
+       }
+    },
+    "15K667":{
+       "street_address":"153 35th Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":398.0,
+          "reading":380.0,
+          "writing":381.0
+       }
+    },
+    "23K493":{
+       "street_address":"2021 Bergen Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":394.0,
+          "reading":395.0,
+          "writing":399.0
+       }
+    },
+    "16K594":{
+       "street_address":"265 Ralph Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":377.0,
+          "reading":396.0,
+          "writing":386.0
+       }
+    },
+    "23K644":{
+       "street_address":"1137 Herkimer Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "22K535":{
+       "street_address":"1830 Shore Boulevard",
+       "city":"Brooklyn",
+       "scores":{
+          "math":563.0,
+          "reading":534.0,
+          "writing":543.0
+       }
+    },
+    "21K410":{
+       "street_address":"2800 Ocean Parkway",
+       "city":"Brooklyn",
+       "scores":{
+          "math":441.0,
+          "reading":422.0,
+          "writing":422.0
+       }
+    },
+    "22K611":{
+       "street_address":"3000 Avenue X",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "21K620":{
+       "street_address":"25 Brighton 4th Road",
+       "city":"Brooklyn",
+       "scores":{
+          "math":416.0,
+          "reading":423.0,
+          "writing":387.0
+       }
+    },
+    "18K642":{
+       "street_address":"1600 Rockaway Parkway",
+       "city":"Brooklyn",
+       "scores":{
+          "math":362.0,
+          "reading":396.0,
+          "writing":393.0
+       }
+    },
+    "18K566":{
+       "street_address":"6565 Flatlands Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":392.0,
+          "reading":406.0,
+          "writing":403.0
+       }
+    },
+    "18K633":{
+       "street_address":"1600 Rockaway Parkway",
+       "city":"Brooklyn",
+       "scores":{
+          "math":404.0,
+          "reading":427.0,
+          "writing":424.0
+       }
+    },
+    "18K617":{
+       "street_address":"1600 Rockaway Parkway",
+       "city":"Brooklyn",
+       "scores":{
+          "math":390.0,
+          "reading":410.0,
+          "writing":397.0
+       }
+    },
+    "18K576":{
+       "street_address":"6565 Flatlands Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":386.0,
+          "reading":408.0,
+          "writing":402.0
+       }
+    },
+    "18K567":{
+       "street_address":"6565 Flatlands Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":379.0,
+          "reading":393.0,
+          "writing":373.0
+       }
+    },
+    "18K637":{
+       "street_address":"6565 Flatlands Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":381.0,
+          "reading":397.0,
+          "writing":390.0
+       }
+    },
+    "32K554":{
+       "street_address":"321 Palmetto Street",
+       "city":"Brooklyn",
+       "scores":{
+          "math":467.0,
+          "reading":446.0,
+          "writing":448.0
+       }
+    },
+    "32K168":{
+       "street_address":"400 Irving Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "32K549":{
+       "street_address":"400 Irving Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":365.0,
+          "reading":357.0,
+          "writing":357.0
+       }
+    },
+    "32K403":{
+       "street_address":"400 Irving Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":365.0,
+          "reading":366.0,
+          "writing":348.0
+       }
+    },
+    "32K552":{
+       "street_address":"400 Irving Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":392.0,
+          "reading":374.0,
+          "writing":379.0
+       }
+    },
+    "13K499":{
+       "street_address":"561 Grand Avenue",
+       "city":"Brooklyn",
+       "scores":{
+          "math":379.0,
+          "reading":395.0,
+          "writing":385.0
+       }
+    },
+    "25Q460":{
+       "street_address":"35-01 Union Street",
+       "city":"Flushing",
+       "scores":{
+          "math":444.0,
+          "reading":407.0,
+          "writing":405.0
+       }
+    },
+    "25Q241":{
+       "street_address":"35-01 Union Street",
+       "city":"Flushing",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "25Q240":{
+       "street_address":"35-01 Union Street",
+       "city":"Flushing",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "25Q281":{
+       "street_address":"46-21 Colden Street",
+       "city":"Flushing",
+       "scores":{
+          "math":521.0,
+          "reading":457.0,
+          "writing":451.0
+       }
+    },
+    "25Q263":{
+       "street_address":"144-80 Barclay Avenue",
+       "city":"Flushing",
+       "scores":{
+          "math":481.0,
+          "reading":323.0,
+          "writing":323.0
+       }
+    },
+    "25Q285":{
+       "street_address":"34-65 192nd Street",
+       "city":"Flushing",
+       "scores":{
+          "math":484.0,
+          "reading":491.0,
+          "writing":487.0
+       }
+    },
+    "26Q495":{
+       "street_address":"32-24 Corporal Kennedy Street",
+       "city":"Bayside",
+       "scores":{
+          "math":523.0,
+          "reading":479.0,
+          "writing":485.0
+       }
+    },
+    "26Q415":{
+       "street_address":"57-00 223rd Street",
+       "city":"Oakland Gardens",
+       "scores":{
+          "math":563.0,
+          "reading":505.0,
+          "writing":510.0
+       }
+    },
+    "26Q430":{
+       "street_address":"58-20 Utopia Parkway",
+       "city":"Fresh Meadows",
+       "scores":{
+          "math":562.0,
+          "reading":483.0,
+          "writing":485.0
+       }
+    },
+    "25Q252":{
+       "street_address":"158-40 76th Road",
+       "city":"Fresh Meadows",
+       "scores":{
+          "math":516.0,
+          "reading":493.0,
+          "writing":486.0
+       }
+    },
+    "25Q670":{
+       "street_address":"75-40 Parsons Boulevard",
+       "city":"Fresh Meadows",
+       "scores":{
+          "math":460.0,
+          "reading":426.0,
+          "writing":423.0
+       }
+    },
+    "25Q425":{
+       "street_address":"63-25 Main Street",
+       "city":"Flushing",
+       "scores":{
+          "math":467.0,
+          "reading":422.0,
+          "writing":425.0
+       }
+    },
+    "25Q525":{
+       "street_address":"149-11 Melbourne Avenue",
+       "city":"Flushing",
+       "scores":{
+          "math":680.0,
+          "reading":640.0,
+          "writing":661.0
+       }
+    },
+    "24Q550":{
+       "street_address":"105-25 Horace Harding Expressway",
+       "city":"Corona",
+       "scores":{
+          "math":413.0,
+          "reading":405.0,
+          "writing":393.0
+       }
+    },
+    "24Q293":{
+       "street_address":"45-10 94th Street",
+       "city":"Elmhurst",
+       "scores":{
+          "math":435.0,
+          "reading":424.0,
+          "writing":418.0
+       }
+    },
+    "24Q585":{
+       "street_address":"54-40 74th Street",
+       "city":"Elmhurst",
+       "scores":{
+          "math":476.0,
+          "reading":471.0,
+          "writing":480.0
+       }
+    },
+    "24Q296":{
+       "street_address":"45-10 94th Street",
+       "city":"Elmhurst",
+       "scores":{
+          "math":340.0,
+          "reading":320.0,
+          "writing":318.0
+       }
+    },
+    "24Q236":{
+       "street_address":"48-01 90th Street",
+       "city":"Elmhurst",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "24Q455":{
+       "street_address":"48-01 90th Street",
+       "city":"Elmhurst",
+       "scores":{
+          "math":434.0,
+          "reading":401.0,
+          "writing":389.0
+       }
+    },
+    "28Q440":{
+       "street_address":"67-01 110th Street",
+       "city":"Forest Hills",
+       "scores":{
+          "math":517.0,
+          "reading":485.0,
+          "writing":483.0
+       }
+    },
+    "28Q167":{
+       "street_address":"91-30 Metropolitan Avenue",
+       "city":"Forest Hills",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "28Q686":{
+       "street_address":"91-30 Metropolitan Avenue",
+       "city":"Forest Hills",
+       "scores":{
+          "math":460.0,
+          "reading":448.0,
+          "writing":449.0
+       }
+    },
+    "24Q485":{
+       "street_address":"21-27 Himrod Street",
+       "city":"Ridgewood",
+       "scores":{
+          "math":452.0,
+          "reading":422.0,
+          "writing":416.0
+       }
+    },
+    "29Q313":{
+       "street_address":"207-01 116th Avenue",
+       "city":"Cambria Heights",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "29Q498":{
+       "street_address":"207-01 116th Avenue",
+       "city":"Cambria Heights",
+       "scores":{
+          "math":384.0,
+          "reading":409.0,
+          "writing":401.0
+       }
+    },
+    "29Q243":{
+       "street_address":"207-01 116th Avenue",
+       "city":"Cambria Heights",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "29Q492":{
+       "street_address":"207-01 116th Avenue",
+       "city":"Cambria Heights",
+       "scores":{
+          "math":380.0,
+          "reading":418.0,
+          "writing":388.0
+       }
+    },
+    "29Q259":{
+       "street_address":"109-89 204th Street",
+       "city":"Saint Albans",
+       "scores":{
+          "math":405.0,
+          "reading":427.0,
+          "writing":409.0
+       }
+    },
+    "29Q265":{
+       "street_address":"143-10 Springfield Boulevard",
+       "city":"Springfield Gardens",
+       "scores":{
+          "math":384.0,
+          "reading":407.0,
+          "writing":400.0
+       }
+    },
+    "29Q283":{
+       "street_address":"143-10 Springfield Boulevard",
+       "city":"Springfield Gardens",
+       "scores":{
+          "math":398.0,
+          "reading":410.0,
+          "writing":393.0
+       }
+    },
+    "29Q248":{
+       "street_address":"143-10 Springfield Boulevard",
+       "city":"Springfield Gardens",
+       "scores":{
+          "math":423.0,
+          "reading":422.0,
+          "writing":403.0
+       }
+    },
+    "29Q272":{
+       "street_address":"143-10 Springfield Boulevard",
+       "city":"Springfield Gardens",
+       "scores":{
+          "math":439.0,
+          "reading":428.0,
+          "writing":419.0
+       }
+    },
+    "27Q650":{
+       "street_address":"94-06 104th Street",
+       "city":"Ozone Park",
+       "scores":{
+          "math":489.0,
+          "reading":457.0,
+          "writing":451.0
+       }
+    },
+    "27Q480":{
+       "street_address":"101-01 Rockaway Boulevard",
+       "city":"Ozone Park",
+       "scores":{
+          "math":418.0,
+          "reading":401.0,
+          "writing":395.0
+       }
+    },
+    "27Q308":{
+       "street_address":"138-30 Lafayette Street",
+       "city":"Ozone Park",
+       "scores":{
+          "math":426.0,
+          "reading":435.0,
+          "writing":424.0
+       }
+    },
+    "27Q475":{
+       "street_address":"89-30 114th Street",
+       "city":"Richmond Hill",
+       "scores":{
+          "math":413.0,
+          "reading":406.0,
+          "writing":399.0
+       }
+    },
+    "27Q334":{
+       "street_address":"94-25 117th Street",
+       "city":"South Richmond Hill",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "27Q314":{
+       "street_address":"121-10 Rockaway Boulevard",
+       "city":"Queens",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "29Q326":{
+       "street_address":"188-04 91st Avenue",
+       "city":"Hollis",
+       "scores":{
+          "math":418.0,
+          "reading":424.0,
+          "writing":411.0
+       }
+    },
+    "26Q566":{
+       "street_address":"74-20 Commonwealth Boulevard",
+       "city":"Bellerose",
+       "scores":{
+          "math":453.0,
+          "reading":434.0,
+          "writing":439.0
+       }
+    },
+    "26Q315":{
+       "street_address":"230-17 Hillside Avenue",
+       "city":"Queens Village",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "26Q435":{
+       "street_address":"230-17 Hillside Avenue",
+       "city":"Queens Village",
+       "scores":{
+          "math":397.0,
+          "reading":396.0,
+          "writing":391.0
+       }
+    },
+    "28Q680":{
+       "street_address":"160-20 Goethals Avenue",
+       "city":"Jamaica",
+       "scores":{
+          "math":524.0,
+          "reading":511.0,
+          "writing":514.0
+       }
+    },
+    "28Q350":{
+       "street_address":"167-01 Gothic Drive",
+       "city":"Jamaica",
+       "scores":{
+          "math":487.0,
+          "reading":460.0,
+          "writing":463.0
+       }
+    },
+    "28Q328":{
+       "street_address":"167-01 Gothic Drive",
+       "city":"Jamaica",
+       "scores":{
+          "math":415.0,
+          "reading":392.0,
+          "writing":386.0
+       }
+    },
+    "28Q896":{
+       "street_address":"150-91 87th Road",
+       "city":"Jamaica",
+       "scores":{
+          "math":415.0,
+          "reading":420.0,
+          "writing":433.0
+       }
+    },
+    "28Q310":{
+       "street_address":"167-01 Gothic Drive",
+       "city":"Jamaica",
+       "scores":{
+          "math":455.0,
+          "reading":439.0,
+          "writing":441.0
+       }
+    },
+    "28Q505":{
+       "street_address":"160-05 Highland Avenue",
+       "city":"Jamaica",
+       "scores":{
+          "math":448.0,
+          "reading":432.0,
+          "writing":426.0
+       }
+    },
+    "28Q620":{
+       "street_address":"165-65 84th Avenue",
+       "city":"Jamaica",
+       "scores":{
+          "math":514.0,
+          "reading":473.0,
+          "writing":470.0
+       }
+    },
+    "28Q325":{
+       "street_address":"167-01 Gothic Drive",
+       "city":"Jamaica",
+       "scores":{
+          "math":409.0,
+          "reading":399.0,
+          "writing":404.0
+       }
+    },
+    "28Q284":{
+       "street_address":"108-35 167th Street",
+       "city":"Jamaica",
+       "scores":{
+          "math":496.0,
+          "reading":481.0,
+          "writing":473.0
+       }
+    },
+    "28Q687":{
+       "street_address":"94-50 159th Street",
+       "city":"Jamaica",
+       "scores":{
+          "math":701.0,
+          "reading":621.0,
+          "writing":625.0
+       }
+    },
+    "28Q690":{
+       "street_address":"116-25 Guy R Brewer Boulevard",
+       "city":"Jamaica",
+       "scores":{
+          "math":410.0,
+          "reading":431.0,
+          "writing":409.0
+       }
+    },
+    "29Q327":{
+       "street_address":"171-10 Linden Boulevard",
+       "city":"Jamaica",
+       "scores":{
+          "math":null,
+          "reading":null,
+          "writing":null
+       }
+    },
+    "27Q400":{
+       "street_address":"156-10 Baisley Boulevard",
+       "city":"Jamaica",
+       "scores":{
+          "math":366.0,
+          "reading":372.0,
+          "writing":364.0
+       }
+    },
+    "27Q260":{
+       "street_address":"8-21 Bay 25th Street",
+       "city":"Far Rockaway",
+       "scores":{
+          "math":410.0,
+          "reading":418.0,
+          "writing":407.0
+       }
+    },
+    "27Q309":{
+       "street_address":"8-21 Bay 25th Street",
+       "city":"Far Rockaway",
+       "scores":{
+          "math":422.0,
+          "reading":424.0,
+          "writing":415.0
+       }
+    },
+    "27Q302":{
+       "street_address":"8-21 Bay 25th Street",
+       "city":"Far Rockaway",
+       "scores":{
+          "math":372.0,
+          "reading":362.0,
+          "writing":352.0
+       }
+    },
+    "27Q324":{
+       "street_address":"100-00 Beach Channel Drive",
+       "city":"Rockaway Park",
+       "scores":{
+          "math":357.0,
+          "reading":381.0,
+          "writing":376.0
+       }
+    },
+    "27Q262":{
+       "street_address":"100-00 Beach Channel Drive",
+       "city":"Rockaway Park",
+       "scores":{
+          "math":427.0,
+          "reading":430.0,
+          "writing":423.0
+       }
+    },
+    "27Q351":{
+       "street_address":"100-00 Beach Channel Drive",
+       "city":"Rockaway Park",
+       "scores":{
+          "math":399.0,
+          "reading":403.0,
+          "writing":405.0
+       }
+    },
+    "27Q323":{
+       "street_address":"320 Beach 104th Street",
+       "city":"Rockaway Park",
+       "scores":{
+          "math":588.0,
+          "reading":560.0,
+          "writing":568.0
+       }
+    }
+ }
